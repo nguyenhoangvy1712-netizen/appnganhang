@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pd
+st.image("logo.jpg")
 
 # Cấu hình trang
 st.set_page_config(page_title="Tính Tiền Tiết Kiệm", page_icon="💰", layout="centered")
